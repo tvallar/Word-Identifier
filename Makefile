@@ -2,10 +2,10 @@
 #makefile
 
 # Defines the C++ compiler
-CXX	= clang++
+CXX	= g++
 
 # Defines the flags for C++
-CXXFLAGS	= -Wall -g
+CXXFLAGS	= -Wall
 
 
 # All of the .o files for our program

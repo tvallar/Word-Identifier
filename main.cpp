@@ -11,7 +11,7 @@
 #include <stdlib.h>
 #include <sstream>
 #include <string>
-#include <tgmath.h>
+#include <math.h>
 
 using namespace std;
 
