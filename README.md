@@ -5,11 +5,11 @@ Program uses neural network to identify the types of words in a sentence. At thi
 
 In the future the training file will be expanded substantially to train for as many words as possible.
 
-Getting started:
+# Getting started:
 Download the repository. Navigate to directory in bash shell and enter 'make' to compile program. Then enter ./a.out to run program. More directions will be given during runtime.
 
-Pre-requisites:
+# Pre-requisites:
 The makefile uses g++, if you have a compiler you'd rather use, enter '*.cpp' after the compiler command and the program should compile.
 
-Acknowledgments:
+# Acknowledgments:
 The neural network framework was retrieved from https://github.com/huangzehao/SimpleNeuralNetwork
