@@ -1,0 +1,618 @@
+Word
+## nouns
+lecture
+time
+monday
+tuesday
+wednesday
+thursday
+friday
+saturday
+sunday
+project
+year
+people
+way
+ways
+day
+days
+man
+men
+thing
+things
+woman
+women
+life
+lives
+child
+children
+world
+words
+school
+schools
+state
+states
+family
+families
+student
+students
+group
+groups
+country
+contries
+problem
+problems
+hand
+hands
+part
+parts
+place
+places
+case
+cases
+week
+weeks
+movie
+movies
+company
+companies
+system
+systems
+program
+programs
+question
+questions
+government
+governments
+number
+numbers
+night
+nights
+point
+points
+home
+homes
+water
+room
+rooms
+mother
+mothers
+area
+areas
+money
+story
+stories
+fact
+facts
+month
+months
+lot
+right
+study
+book
+eye
+job
+word
+business
+issue
+side
+kind
+head
+house
+service
+friend
+father
+power
+hour
+game
+line
+end
+member
+law
+car
+city
+community
+name
+president
+team
+minute
+idea
+kid
+body
+information
+back
+parent
+face
+others
+level
+office
+door
+health
+person
+art
+war
+history
+party
+result
+change
+morning
+reason
+research
+girl
+guy
+moment
+air
+teacher
+force
+education
+work
+## Pronouns
+** known
+2   it
+2   I
+2   you
+2   he
+2   they
+2   we
+2   she
+2   them
+2   me
+2   him
+2   one
+2   her
+2   us
+2   something
+2   nothing
+2   anything
+2   himself
+2   everything
+2   someone
+2   themselves
+2   everyone
+2   itself
+2   anyone
+2   myself
+* uknown
+## Verbs
+be
+was
+were
+was 
+am
+are
+is
+have
+had
+do
+did
+say
+said
+go
+went
+goes
+can
+get
+got
+would
+make
+made
+know
+knew
+will
+think
+thought
+take
+see
+come
+could
+want
+look
+use
+find
+give
+tell
+may
+should
+call
+try
+ask
+need
+feel
+become
+leave
+put
+mean
+keep
+let
+begin
+seem
+help
+talk
+turn
+start
+might
+show
+hear
+play
+run
+move
+like
+live
+believe
+hold
+bring
+happen
+must
+write
+provide
+sit
+stand
+lose
+pay
+meet
+include
+continue
+set
+learn
+change
+lead
+understand
+watch
+follow
+stop
+create
+speak
+read
+allow
+add
+spend
+grow
+open
+walk
+win
+offer
+remember
+love
+consider
+appear
+buy
+wait
+serve
+die
+send
+expect
+build
+stay
+fall
+cut
+reach
+kill
+remain
+## Adjectives
+other
+new
+good
+high
+old
+great
+big
+American
+small
+large
+national
+young
+different
+black
+long
+little
+important
+political
+bad
+white
+real
+best
+right
+social
+only
+public
+sure
+low
+early
+able
+human
+local
+late
+hard
+major
+better
+economic
+strong
+possible
+whole
+free
+military
+true
+federal
+international
+full
+special
+easy
+clear
+recent
+certain
+personal
+open
+red
+difficult
+available
+likely
+short
+single
+medical
+current
+wrong
+private
+past
+foreign
+fine
+common
+poor
+natural
+significant
+similar
+hot
+dead
+central
+happy
+serious
+ready
+simple
+left
+physical
+general
+environmental
+financial
+blue
+democratic
+dark
+various
+entire
+close
+legal
+religious
+cold
+final
+main
+green
+nice
+huge
+popular
+traditional
+cultural
+due
+** known Words
+5       what
+5       who
+5       where
+5       when
+5       whose
+5       why
+5       how
+* unknown
+up
+so
+out
+just
+now
+then
+more
+also
+here
+well
+only
+very
+even
+back
+there
+down
+still
+in
+as
+to
+when
+never
+really
+most
+on
+about
+over
+again
+where
+right
+off
+always
+today
+all
+far
+long
+away
+yet
+often
+ever
+however
+almost
+later
+much
+once
+least
+ago
+together
+around
+already
+enough
+both
+maybe
+actually
+probably
+home
+perhaps
+little
+else
+sometimes
+finally
+less
+better
+early
+especially
+either
+quite
+simply
+nearly
+soon
+certainly
+quickly
+no
+recently
+before
+usually
+thus
+exactly
+hard
+particularly
+pretty
+forward
+ok
+clearly
+indeed
+rather
+that
+tonight
+close
+suddenly
+best
+instead
+ahead
+fast
+alone
+eventually
+directly
+aboard
+about
+above
+across
+after
+against
+along
+amid
+among
+anti
+around
+as
+at
+before
+behind
+below
+beneath
+beside
+besides
+between
+beyond
+but
+by
+concerning
+considering
+despite
+down
+during
+except
+excepting
+excluding
+following
+for
+from
+in
+inside
+into
+like
+minus
+near
+of
+off
+on
+onto
+opposite
+outside
+over
+past
+per
+plus
+regarding
+round
+save
+since
+than
+through
+to
+toward
+towards
+under
+underneath
+unlike
+until
+up
+upon
+versus
+via
+with
+within
+without
+and
+that
+but
+or
+as
+if
+than
+because
+while
+after
+so
+though
+since
+until
+whether
+before
+although
+nor
+like
+once
+unless
+now
+except
+** known Words
+9	the
+9	a
+9	an
+9	this
+9	that
+9	these
+9	those
+9	my
+9	your
+9	his
+9	her
+9	its
+9	our
+9	their
+9	few
+9	many
+9	all
+9	both
+9	half
+9	either
+9	neither
+9	each
+9	every
+9	other
+9	another
+----

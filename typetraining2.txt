@@ -1,0 +1,751 @@
+we went to the movie after we ate
+2.0 3.0 8.0 9.0 1.0 7.0 2.0 3.0 
+we went to the movie after the lecture
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 1.0
+I have been living in Denver since last summer
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 4.0 1.0
+I have been living in Denver since my father died
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 9.0 1.0 3.0
+the plane had to land in Stuttgart because of the bad weather
+9.0 1.0 3.0 8.0 3.0 8.0 1.0 8.0 8.0 9.0 4.0 1.0
+he stood before the judge and declared his innocence
+2.0 3.0 8.0 9.0 1.0 7.0 3.0 9.0 1.0
+he looked at the judge for a long time before he declared his innocence
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 4.0 1.0 7.0 2.0 3.0 9.0 1.0
+give yourself plenty of time because the work is quite demanding
+3.0   2.0      2.0   8.0 1.0   7.0   9.0 1.0  3.0 4.0    3.0
+give yourself plenty of time for the work
+3.0  2.0        2.0  8.0 1.0 8.0 9.0 1.0
+I have been working for a month
+2.0 3.0 3.0  3.0    8.0 9.0 1.0
+someone stole the lettuce in your garden while you were away
+2.0     3.0   9.0  1.0    8.0 9.0 1.0     7.0  2.0  3.0  6.0
+I work many hours during the day
+2.0 3.0 4.0 1.0    8.0  9.0  1.0
+she wrote a letter instead of speaking
+2.0  3.0 9.0 1.0   7.0    7.0  3.0
+She wrote a letter instead of a poem
+2.0  3.0  9.0 1.0   8.0   8.0 9.0 1.0
+He left the room without his wife
+2.0 3.0 9.0 1.0   8.0    9.0 1.0
+He left the room without taking his wife
+2.0 3.0 9.0  1.0  7.0    3.0    9.0  1.0
+I went to school
+2.0 3.0 8.0 1.0
+you are a good student
+2.0 3.0 9.0 4.0 1.0
+can you quickly go to buy the food
+5.0 2.0  6.0   3.0 7.0 3.0 9.0 1.0
+I will work today
+2.0 3.0 3.0 6.0
+life is a long story
+1.0 3.0 9.0 4.0 1.0
+people spend time on difficult things
+1.0 3.0 1.0 8.0 4.0 1.0
+the project is due before tuesday
+9.0 1.0 3.0 4.0 8.0 1.0
+I want the school to close
+2.0 3.0 9.0 1.0 7.0 3.0
+what do you need
+5.0 3.0 2.0 3.0
+we went to the movie after we ate
+2.0 3.0 8.0 9.0 1.0 7.0 2.0 3.0 
+we went to the movie after the lecture
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 1.0
+I have been living in Denver since last summer
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 4.0 1.0
+I have been living in Denver since my father died
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 9.0 1.0 3.0
+the plane had to land in Stuttgart because of the bad weather
+9.0 1.0 3.0 8.0 3.0 8.0 1.0 8.0 8.0 9.0 4.0 1.0
+he stood before the judge and declared his innocence
+2.0 3.0 8.0 9.0 1.0 7.0 3.0 9.0 1.0
+he looked at the judge for a long time before he declared his innocence
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 4.0 1.0 7.0 2.0 3.0 9.0 1.0
+give yourself plenty of time because the work is quite demanding
+3.0   2.0      2.0   8.0 1.0   7.0   9.0 1.0  3.0 4.0    3.0
+give yourself plenty of time for the work
+3.0  2.0        2.0  8.0 1.0 8.0 9.0 1.0
+I have been working for a month
+2.0 3.0 3.0  3.0    8.0 9.0 1.0
+someone stole the lettuce in your garden while you were away
+2.0     3.0   9.0  1.0    8.0 9.0 1.0     7.0  2.0  3.0  6.0
+I work many hours during the day
+2.0 3.0 4.0 1.0    8.0  9.0  1.0
+she wrote a letter instead of speaking
+2.0  3.0 9.0 1.0   7.0    7.0  3.0
+She wrote a letter instead of a poem
+2.0  3.0  9.0 1.0   8.0   8.0 9.0 1.0
+He left the room without his wife
+2.0 3.0 9.0 1.0   8.0    9.0 1.0
+He left the room without taking his wife
+2.0 3.0 9.0  1.0  7.0    3.0    9.0  1.0
+I went to school
+2.0 3.0 8.0 1.0
+you are a good student
+2.0 3.0 9.0 4.0 1.0
+can you quickly go to buy the food
+5.0 2.0  6.0   3.0 7.0 3.0 9.0 1.0
+I will work today
+2.0 3.0 3.0 6.0
+life is a long story
+1.0 3.0 9.0 4.0 1.0
+people spend time on difficult things
+1.0 3.0 1.0 8.0 4.0 1.0
+the project is due before tuesday
+9.0 1.0 3.0 4.0 8.0 1.0
+I want the school to close
+2.0 3.0 9.0 1.0 7.0 3.0
+what do you need
+5.0 3.0 2.0 3.0
+we went to the movie after we ate
+2.0 3.0 8.0 9.0 1.0 7.0 2.0 3.0 
+we went to the movie after the lecture
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 1.0
+I have been living in Denver since last summer
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 4.0 1.0
+I have been living in Denver since my father died
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 9.0 1.0 3.0
+the plane had to land in Stuttgart because of the bad weather
+9.0 1.0 3.0 8.0 3.0 8.0 1.0 8.0 8.0 9.0 4.0 1.0
+he stood before the judge and declared his innocence
+2.0 3.0 8.0 9.0 1.0 7.0 3.0 9.0 1.0
+he looked at the judge for a long time before he declared his innocence
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 4.0 1.0 7.0 2.0 3.0 9.0 1.0
+give yourself plenty of time because the work is quite demanding
+3.0   2.0      2.0   8.0 1.0   7.0   9.0 1.0  3.0 4.0    3.0
+give yourself plenty of time for the work
+3.0  2.0        2.0  8.0 1.0 8.0 9.0 1.0
+I have been working for a month
+2.0 3.0 3.0  3.0    8.0 9.0 1.0
+someone stole the lettuce in your garden while you were away
+2.0     3.0   9.0  1.0    8.0 9.0 1.0     7.0  2.0  3.0  6.0
+I work many hours during the day
+2.0 3.0 4.0 1.0    8.0  9.0  1.0
+she wrote a letter instead of speaking
+2.0  3.0 9.0 1.0   7.0    7.0  3.0
+She wrote a letter instead of a poem
+2.0  3.0  9.0 1.0   8.0   8.0 9.0 1.0
+He left the room without his wife
+2.0 3.0 9.0 1.0   8.0    9.0 1.0
+He left the room without taking his wife
+2.0 3.0 9.0  1.0  7.0    3.0    9.0  1.0
+I went to school
+2.0 3.0 8.0 1.0
+you are a good student
+2.0 3.0 9.0 4.0 1.0
+can you quickly go to buy the food
+5.0 2.0  6.0   3.0 7.0 3.0 9.0 1.0
+I will work today
+2.0 3.0 3.0 6.0
+life is a long story
+1.0 3.0 9.0 4.0 1.0
+people spend time on difficult things
+1.0 3.0 1.0 8.0 4.0 1.0
+the project is due before tuesday
+9.0 1.0 3.0 4.0 8.0 1.0
+I want the school to close
+2.0 3.0 9.0 1.0 7.0 3.0
+what do you need
+5.0 3.0 2.0 3.0
+we went to the movie after we ate
+2.0 3.0 8.0 9.0 1.0 7.0 2.0 3.0 
+we went to the movie after the lecture
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 1.0
+I have been living in Denver since last summer
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 4.0 1.0
+I have been living in Denver since my father died
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 9.0 1.0 3.0
+the plane had to land in Stuttgart because of the bad weather
+9.0 1.0 3.0 8.0 3.0 8.0 1.0 8.0 8.0 9.0 4.0 1.0
+he stood before the judge and declared his innocence
+2.0 3.0 8.0 9.0 1.0 7.0 3.0 9.0 1.0
+he looked at the judge for a long time before he declared his innocence
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 4.0 1.0 7.0 2.0 3.0 9.0 1.0
+give yourself plenty of time because the work is quite demanding
+3.0   2.0      2.0   8.0 1.0   7.0   9.0 1.0  3.0 4.0    3.0
+give yourself plenty of time for the work
+3.0  2.0        2.0  8.0 1.0 8.0 9.0 1.0
+I have been working for a month
+2.0 3.0 3.0  3.0    8.0 9.0 1.0
+someone stole the lettuce in your garden while you were away
+2.0     3.0   9.0  1.0    8.0 9.0 1.0     7.0  2.0  3.0  6.0
+I work many hours during the day
+2.0 3.0 4.0 1.0    8.0  9.0  1.0
+she wrote a letter instead of speaking
+2.0  3.0 9.0 1.0   7.0    7.0  3.0
+She wrote a letter instead of a poem
+2.0  3.0  9.0 1.0   8.0   8.0 9.0 1.0
+He left the room without his wife
+2.0 3.0 9.0 1.0   8.0    9.0 1.0
+He left the room without taking his wife
+2.0 3.0 9.0  1.0  7.0    3.0    9.0  1.0
+I went to school
+2.0 3.0 8.0 1.0
+you are a good student
+2.0 3.0 9.0 4.0 1.0
+can you quickly go to buy the food
+5.0 2.0  6.0   3.0 7.0 3.0 9.0 1.0
+I will work today
+2.0 3.0 3.0 6.0
+life is a long story
+1.0 3.0 9.0 4.0 1.0
+people spend time on difficult things
+1.0 3.0 1.0 8.0 4.0 1.0
+the project is due before tuesday
+9.0 1.0 3.0 4.0 8.0 1.0
+I want the school to close
+2.0 3.0 9.0 1.0 7.0 3.0
+what do you need
+5.0 3.0 2.0 3.0
+we went to the movie after we ate
+2.0 3.0 8.0 9.0 1.0 7.0 2.0 3.0 
+we went to the movie after the lecture
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 1.0
+I have been living in Denver since last summer
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 4.0 1.0
+I have been living in Denver since my father died
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 9.0 1.0 3.0
+the plane had to land in Stuttgart because of the bad weather
+9.0 1.0 3.0 8.0 3.0 8.0 1.0 8.0 8.0 9.0 4.0 1.0
+he stood before the judge and declared his innocence
+2.0 3.0 8.0 9.0 1.0 7.0 3.0 9.0 1.0
+he looked at the judge for a long time before he declared his innocence
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 4.0 1.0 7.0 2.0 3.0 9.0 1.0
+give yourself plenty of time because the work is quite demanding
+3.0   2.0      2.0   8.0 1.0   7.0   9.0 1.0  3.0 4.0    3.0
+give yourself plenty of time for the work
+3.0  2.0        2.0  8.0 1.0 8.0 9.0 1.0
+I have been working for a month
+2.0 3.0 3.0  3.0    8.0 9.0 1.0
+someone stole the lettuce in your garden while you were away
+2.0     3.0   9.0  1.0    8.0 9.0 1.0     7.0  2.0  3.0  6.0
+I work many hours during the day
+2.0 3.0 4.0 1.0    8.0  9.0  1.0
+she wrote a letter instead of speaking
+2.0  3.0 9.0 1.0   7.0    7.0  3.0
+She wrote a letter instead of a poem
+2.0  3.0  9.0 1.0   8.0   8.0 9.0 1.0
+He left the room without his wife
+2.0 3.0 9.0 1.0   8.0    9.0 1.0
+He left the room without taking his wife
+2.0 3.0 9.0  1.0  7.0    3.0    9.0  1.0
+I went to school
+2.0 3.0 8.0 1.0
+you are a good student
+2.0 3.0 9.0 4.0 1.0
+can you quickly go to buy the food
+5.0 2.0  6.0   3.0 7.0 3.0 9.0 1.0
+I will work today
+2.0 3.0 3.0 6.0
+life is a long story
+1.0 3.0 9.0 4.0 1.0
+people spend time on difficult things
+1.0 3.0 1.0 8.0 4.0 1.0
+the project is due before tuesday
+9.0 1.0 3.0 4.0 8.0 1.0
+I want the school to close
+2.0 3.0 9.0 1.0 7.0 3.0
+what do you need
+5.0 3.0 2.0 3.0
+we went to the movie after we ate
+2.0 3.0 8.0 9.0 1.0 7.0 2.0 3.0 
+we went to the movie after the lecture
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 1.0
+I have been living in Denver since last summer
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 4.0 1.0
+I have been living in Denver since my father died
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 9.0 1.0 3.0
+the plane had to land in Stuttgart because of the bad weather
+9.0 1.0 3.0 8.0 3.0 8.0 1.0 8.0 8.0 9.0 4.0 1.0
+he stood before the judge and declared his innocence
+2.0 3.0 8.0 9.0 1.0 7.0 3.0 9.0 1.0
+he looked at the judge for a long time before he declared his innocence
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 4.0 1.0 7.0 2.0 3.0 9.0 1.0
+give yourself plenty of time because the work is quite demanding
+3.0   2.0      2.0   8.0 1.0   7.0   9.0 1.0  3.0 4.0    3.0
+give yourself plenty of time for the work
+3.0  2.0        2.0  8.0 1.0 8.0 9.0 1.0
+I have been working for a month
+2.0 3.0 3.0  3.0    8.0 9.0 1.0
+someone stole the lettuce in your garden while you were away
+2.0     3.0   9.0  1.0    8.0 9.0 1.0     7.0  2.0  3.0  6.0
+I work many hours during the day
+2.0 3.0 4.0 1.0    8.0  9.0  1.0
+she wrote a letter instead of speaking
+2.0  3.0 9.0 1.0   7.0    7.0  3.0
+She wrote a letter instead of a poem
+2.0  3.0  9.0 1.0   8.0   8.0 9.0 1.0
+He left the room without his wife
+2.0 3.0 9.0 1.0   8.0    9.0 1.0
+He left the room without taking his wife
+2.0 3.0 9.0  1.0  7.0    3.0    9.0  1.0
+I went to school
+2.0 3.0 8.0 1.0
+you are a good student
+2.0 3.0 9.0 4.0 1.0
+can you quickly go to buy the food
+5.0 2.0  6.0   3.0 7.0 3.0 9.0 1.0
+I will work today
+2.0 3.0 3.0 6.0
+life is a long story
+1.0 3.0 9.0 4.0 1.0
+people spend time on difficult things
+1.0 3.0 1.0 8.0 4.0 1.0
+the project is due before tuesday
+9.0 1.0 3.0 4.0 8.0 1.0
+I want the school to close
+2.0 3.0 9.0 1.0 7.0 3.0
+what do you need
+5.0 3.0 2.0 3.0
+we went to the movie after we ate
+2.0 3.0 8.0 9.0 1.0 7.0 2.0 3.0 
+we went to the movie after the lecture
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 1.0
+I have been living in Denver since last summer
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 4.0 1.0
+I have been living in Denver since my father died
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 9.0 1.0 3.0
+the plane had to land in Stuttgart because of the bad weather
+9.0 1.0 3.0 8.0 3.0 8.0 1.0 8.0 8.0 9.0 4.0 1.0
+he stood before the judge and declared his innocence
+2.0 3.0 8.0 9.0 1.0 7.0 3.0 9.0 1.0
+he looked at the judge for a long time before he declared his innocence
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 4.0 1.0 7.0 2.0 3.0 9.0 1.0
+give yourself plenty of time because the work is quite demanding
+3.0   2.0      2.0   8.0 1.0   7.0   9.0 1.0  3.0 4.0    3.0
+give yourself plenty of time for the work
+3.0  2.0        2.0  8.0 1.0 8.0 9.0 1.0
+I have been working for a month
+2.0 3.0 3.0  3.0    8.0 9.0 1.0
+someone stole the lettuce in your garden while you were away
+2.0     3.0   9.0  1.0    8.0 9.0 1.0     7.0  2.0  3.0  6.0
+I work many hours during the day
+2.0 3.0 4.0 1.0    8.0  9.0  1.0
+she wrote a letter instead of speaking
+2.0  3.0 9.0 1.0   7.0    7.0  3.0
+She wrote a letter instead of a poem
+2.0  3.0  9.0 1.0   8.0   8.0 9.0 1.0
+He left the room without his wife
+2.0 3.0 9.0 1.0   8.0    9.0 1.0
+He left the room without taking his wife
+2.0 3.0 9.0  1.0  7.0    3.0    9.0  1.0
+I went to school
+2.0 3.0 8.0 1.0
+you are a good student
+2.0 3.0 9.0 4.0 1.0
+can you quickly go to buy the food
+5.0 2.0  6.0   3.0 7.0 3.0 9.0 1.0
+I will work today
+2.0 3.0 3.0 6.0
+life is a long story
+1.0 3.0 9.0 4.0 1.0
+people spend time on difficult things
+1.0 3.0 1.0 8.0 4.0 1.0
+the project is due before tuesday
+9.0 1.0 3.0 4.0 8.0 1.0
+I want the school to close
+2.0 3.0 9.0 1.0 7.0 3.0
+what do you need
+5.0 3.0 2.0 3.0
+we went to the movie after we ate
+2.0 3.0 8.0 9.0 1.0 7.0 2.0 3.0 
+we went to the movie after the lecture
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 1.0
+I have been living in Denver since last summer
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 4.0 1.0
+I have been living in Denver since my father died
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 9.0 1.0 3.0
+the plane had to land in Stuttgart because of the bad weather
+9.0 1.0 3.0 8.0 3.0 8.0 1.0 8.0 8.0 9.0 4.0 1.0
+he stood before the judge and declared his innocence
+2.0 3.0 8.0 9.0 1.0 7.0 3.0 9.0 1.0
+he looked at the judge for a long time before he declared his innocence
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 4.0 1.0 7.0 2.0 3.0 9.0 1.0
+give yourself plenty of time because the work is quite demanding
+3.0   2.0      2.0   8.0 1.0   7.0   9.0 1.0  3.0 4.0    3.0
+give yourself plenty of time for the work
+3.0  2.0        2.0  8.0 1.0 8.0 9.0 1.0
+I have been working for a month
+2.0 3.0 3.0  3.0    8.0 9.0 1.0
+someone stole the lettuce in your garden while you were away
+2.0     3.0   9.0  1.0    8.0 9.0 1.0     7.0  2.0  3.0  6.0
+I work many hours during the day
+2.0 3.0 4.0 1.0    8.0  9.0  1.0
+she wrote a letter instead of speaking
+2.0  3.0 9.0 1.0   7.0    7.0  3.0
+She wrote a letter instead of a poem
+2.0  3.0  9.0 1.0   8.0   8.0 9.0 1.0
+He left the room without his wife
+2.0 3.0 9.0 1.0   8.0    9.0 1.0
+He left the room without taking his wife
+2.0 3.0 9.0  1.0  7.0    3.0    9.0  1.0
+I went to school
+2.0 3.0 8.0 1.0
+you are a good student
+2.0 3.0 9.0 4.0 1.0
+can you quickly go to buy the food
+5.0 2.0  6.0   3.0 7.0 3.0 9.0 1.0
+I will work today
+2.0 3.0 3.0 6.0
+life is a long story
+1.0 3.0 9.0 4.0 1.0
+people spend time on difficult things
+1.0 3.0 1.0 8.0 4.0 1.0
+the project is due before tuesday
+9.0 1.0 3.0 4.0 8.0 1.0
+I want the school to close
+2.0 3.0 9.0 1.0 7.0 3.0
+what do you need
+5.0 3.0 2.0 3.0
+we went to the movie after we ate
+2.0 3.0 8.0 9.0 1.0 7.0 2.0 3.0 
+we went to the movie after the lecture
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 1.0
+I have been living in Denver since last summer
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 4.0 1.0
+I have been living in Denver since my father died
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 9.0 1.0 3.0
+the plane had to land in Stuttgart because of the bad weather
+9.0 1.0 3.0 8.0 3.0 8.0 1.0 8.0 8.0 9.0 4.0 1.0
+he stood before the judge and declared his innocence
+2.0 3.0 8.0 9.0 1.0 7.0 3.0 9.0 1.0
+he looked at the judge for a long time before he declared his innocence
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 4.0 1.0 7.0 2.0 3.0 9.0 1.0
+give yourself plenty of time because the work is quite demanding
+3.0   2.0      2.0   8.0 1.0   7.0   9.0 1.0  3.0 4.0    3.0
+give yourself plenty of time for the work
+3.0  2.0        2.0  8.0 1.0 8.0 9.0 1.0
+I have been working for a month
+2.0 3.0 3.0  3.0    8.0 9.0 1.0
+someone stole the lettuce in your garden while you were away
+2.0     3.0   9.0  1.0    8.0 9.0 1.0     7.0  2.0  3.0  6.0
+I work many hours during the day
+2.0 3.0 4.0 1.0    8.0  9.0  1.0
+she wrote a letter instead of speaking
+2.0  3.0 9.0 1.0   7.0    7.0  3.0
+She wrote a letter instead of a poem
+2.0  3.0  9.0 1.0   8.0   8.0 9.0 1.0
+He left the room without his wife
+2.0 3.0 9.0 1.0   8.0    9.0 1.0
+He left the room without taking his wife
+2.0 3.0 9.0  1.0  7.0    3.0    9.0  1.0
+I went to school
+2.0 3.0 8.0 1.0
+you are a good student
+2.0 3.0 9.0 4.0 1.0
+can you quickly go to buy the food
+5.0 2.0  6.0   3.0 7.0 3.0 9.0 1.0
+I will work today
+2.0 3.0 3.0 6.0
+life is a long story
+1.0 3.0 9.0 4.0 1.0
+people spend time on difficult things
+1.0 3.0 1.0 8.0 4.0 1.0
+the project is due before tuesday
+9.0 1.0 3.0 4.0 8.0 1.0
+I want the school to close
+2.0 3.0 9.0 1.0 7.0 3.0
+what do you need
+5.0 3.0 2.0 3.0
+we went to the movie after we ate
+2.0 3.0 8.0 9.0 1.0 7.0 2.0 3.0 
+we went to the movie after the lecture
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 1.0
+I have been living in Denver since last summer
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 4.0 1.0
+I have been living in Denver since my father died
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 9.0 1.0 3.0
+the plane had to land in Stuttgart because of the bad weather
+9.0 1.0 3.0 8.0 3.0 8.0 1.0 8.0 8.0 9.0 4.0 1.0
+he stood before the judge and declared his innocence
+2.0 3.0 8.0 9.0 1.0 7.0 3.0 9.0 1.0
+he looked at the judge for a long time before he declared his innocence
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 4.0 1.0 7.0 2.0 3.0 9.0 1.0
+give yourself plenty of time because the work is quite demanding
+3.0   2.0      2.0   8.0 1.0   7.0   9.0 1.0  3.0 4.0    3.0
+give yourself plenty of time for the work
+3.0  2.0        2.0  8.0 1.0 8.0 9.0 1.0
+I have been working for a month
+2.0 3.0 3.0  3.0    8.0 9.0 1.0
+someone stole the lettuce in your garden while you were away
+2.0     3.0   9.0  1.0    8.0 9.0 1.0     7.0  2.0  3.0  6.0
+I work many hours during the day
+2.0 3.0 4.0 1.0    8.0  9.0  1.0
+she wrote a letter instead of speaking
+2.0  3.0 9.0 1.0   7.0    7.0  3.0
+She wrote a letter instead of a poem
+2.0  3.0  9.0 1.0   8.0   8.0 9.0 1.0
+He left the room without his wife
+2.0 3.0 9.0 1.0   8.0    9.0 1.0
+He left the room without taking his wife
+2.0 3.0 9.0  1.0  7.0    3.0    9.0  1.0
+I went to school
+2.0 3.0 8.0 1.0
+you are a good student
+2.0 3.0 9.0 4.0 1.0
+can you quickly go to buy the food
+5.0 2.0  6.0   3.0 7.0 3.0 9.0 1.0
+I will work today
+2.0 3.0 3.0 6.0
+life is a long story
+1.0 3.0 9.0 4.0 1.0
+people spend time on difficult things
+1.0 3.0 1.0 8.0 4.0 1.0
+the project is due before tuesday
+9.0 1.0 3.0 4.0 8.0 1.0
+I want the school to close
+2.0 3.0 9.0 1.0 7.0 3.0
+what do you need
+5.0 3.0 2.0 3.0
+we went to the movie after we ate
+2.0 3.0 8.0 9.0 1.0 7.0 2.0 3.0 
+we went to the movie after the lecture
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 1.0
+I have been living in Denver since last summer
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 4.0 1.0
+I have been living in Denver since my father died
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 9.0 1.0 3.0
+the plane had to land in Stuttgart because of the bad weather
+9.0 1.0 3.0 8.0 3.0 8.0 1.0 8.0 8.0 9.0 4.0 1.0
+he stood before the judge and declared his innocence
+2.0 3.0 8.0 9.0 1.0 7.0 3.0 9.0 1.0
+he looked at the judge for a long time before he declared his innocence
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 4.0 1.0 7.0 2.0 3.0 9.0 1.0
+give yourself plenty of time because the work is quite demanding
+3.0   2.0      2.0   8.0 1.0   7.0   9.0 1.0  3.0 4.0    3.0
+give yourself plenty of time for the work
+3.0  2.0        2.0  8.0 1.0 8.0 9.0 1.0
+I have been working for a month
+2.0 3.0 3.0  3.0    8.0 9.0 1.0
+someone stole the lettuce in your garden while you were away
+2.0     3.0   9.0  1.0    8.0 9.0 1.0     7.0  2.0  3.0  6.0
+I work many hours during the day
+2.0 3.0 4.0 1.0    8.0  9.0  1.0
+she wrote a letter instead of speaking
+2.0  3.0 9.0 1.0   7.0    7.0  3.0
+She wrote a letter instead of a poem
+2.0  3.0  9.0 1.0   8.0   8.0 9.0 1.0
+He left the room without his wife
+2.0 3.0 9.0 1.0   8.0    9.0 1.0
+He left the room without taking his wife
+2.0 3.0 9.0  1.0  7.0    3.0    9.0  1.0
+I went to school
+2.0 3.0 8.0 1.0
+you are a good student
+2.0 3.0 9.0 4.0 1.0
+can you quickly go to buy the food
+5.0 2.0  6.0   3.0 7.0 3.0 9.0 1.0
+I will work today
+2.0 3.0 3.0 6.0
+life is a long story
+1.0 3.0 9.0 4.0 1.0
+people spend time on difficult things
+1.0 3.0 1.0 8.0 4.0 1.0
+the project is due before tuesday
+9.0 1.0 3.0 4.0 8.0 1.0
+I want the school to close
+2.0 3.0 9.0 1.0 7.0 3.0
+what do you need
+5.0 3.0 2.0 3.0
+we went to the movie after we ate
+2.0 3.0 8.0 9.0 1.0 7.0 2.0 3.0 
+we went to the movie after the lecture
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 1.0
+I have been living in Denver since last summer
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 4.0 1.0
+I have been living in Denver since my father died
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 9.0 1.0 3.0
+the plane had to land in Stuttgart because of the bad weather
+9.0 1.0 3.0 8.0 3.0 8.0 1.0 8.0 8.0 9.0 4.0 1.0
+he stood before the judge and declared his innocence
+2.0 3.0 8.0 9.0 1.0 7.0 3.0 9.0 1.0
+he looked at the judge for a long time before he declared his innocence
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 4.0 1.0 7.0 2.0 3.0 9.0 1.0
+give yourself plenty of time because the work is quite demanding
+3.0   2.0      2.0   8.0 1.0   7.0   9.0 1.0  3.0 4.0    3.0
+give yourself plenty of time for the work
+3.0  2.0        2.0  8.0 1.0 8.0 9.0 1.0
+I have been working for a month
+2.0 3.0 3.0  3.0    8.0 9.0 1.0
+someone stole the lettuce in your garden while you were away
+2.0     3.0   9.0  1.0    8.0 9.0 1.0     7.0  2.0  3.0  6.0
+I work many hours during the day
+2.0 3.0 4.0 1.0    8.0  9.0  1.0
+she wrote a letter instead of speaking
+2.0  3.0 9.0 1.0   7.0    7.0  3.0
+She wrote a letter instead of a poem
+2.0  3.0  9.0 1.0   8.0   8.0 9.0 1.0
+He left the room without his wife
+2.0 3.0 9.0 1.0   8.0    9.0 1.0
+He left the room without taking his wife
+2.0 3.0 9.0  1.0  7.0    3.0    9.0  1.0
+I went to school
+2.0 3.0 8.0 1.0
+you are a good student
+2.0 3.0 9.0 4.0 1.0
+can you quickly go to buy the food
+5.0 2.0  6.0   3.0 7.0 3.0 9.0 1.0
+I will work today
+2.0 3.0 3.0 6.0
+life is a long story
+1.0 3.0 9.0 4.0 1.0
+people spend time on difficult things
+1.0 3.0 1.0 8.0 4.0 1.0
+the project is due before tuesday
+9.0 1.0 3.0 4.0 8.0 1.0
+I want the school to close
+2.0 3.0 9.0 1.0 7.0 3.0
+what do you need
+5.0 3.0 2.0 3.0
+we went to the movie after we ate
+2.0 3.0 8.0 9.0 1.0 7.0 2.0 3.0 
+we went to the movie after the lecture
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 1.0
+I have been living in Denver since last summer
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 4.0 1.0
+I have been living in Denver since my father died
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 9.0 1.0 3.0
+the plane had to land in Stuttgart because of the bad weather
+9.0 1.0 3.0 8.0 3.0 8.0 1.0 8.0 8.0 9.0 4.0 1.0
+he stood before the judge and declared his innocence
+2.0 3.0 8.0 9.0 1.0 7.0 3.0 9.0 1.0
+he looked at the judge for a long time before he declared his innocence
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 4.0 1.0 7.0 2.0 3.0 9.0 1.0
+give yourself plenty of time because the work is quite demanding
+3.0   2.0      2.0   8.0 1.0   7.0   9.0 1.0  3.0 4.0    3.0
+give yourself plenty of time for the work
+3.0  2.0        2.0  8.0 1.0 8.0 9.0 1.0
+I have been working for a month
+2.0 3.0 3.0  3.0    8.0 9.0 1.0
+someone stole the lettuce in your garden while you were away
+2.0     3.0   9.0  1.0    8.0 9.0 1.0     7.0  2.0  3.0  6.0
+I work many hours during the day
+2.0 3.0 4.0 1.0    8.0  9.0  1.0
+she wrote a letter instead of speaking
+2.0  3.0 9.0 1.0   7.0    7.0  3.0
+She wrote a letter instead of a poem
+2.0  3.0  9.0 1.0   8.0   8.0 9.0 1.0
+He left the room without his wife
+2.0 3.0 9.0 1.0   8.0    9.0 1.0
+He left the room without taking his wife
+2.0 3.0 9.0  1.0  7.0    3.0    9.0  1.0
+I went to school
+2.0 3.0 8.0 1.0
+you are a good student
+2.0 3.0 9.0 4.0 1.0
+can you quickly go to buy the food
+5.0 2.0  6.0   3.0 7.0 3.0 9.0 1.0
+I will work today
+2.0 3.0 3.0 6.0
+life is a long story
+1.0 3.0 9.0 4.0 1.0
+people spend time on difficult things
+1.0 3.0 1.0 8.0 4.0 1.0
+the project is due before tuesday
+9.0 1.0 3.0 4.0 8.0 1.0
+I want the school to close
+2.0 3.0 9.0 1.0 7.0 3.0
+what do you need
+5.0 3.0 2.0 3.0
+we went to the movie after we ate
+2.0 3.0 8.0 9.0 1.0 7.0 2.0 3.0 
+we went to the movie after the lecture
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 1.0
+I have been living in Denver since last summer
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 4.0 1.0
+I have been living in Denver since my father died
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 9.0 1.0 3.0
+the plane had to land in Stuttgart because of the bad weather
+9.0 1.0 3.0 8.0 3.0 8.0 1.0 8.0 8.0 9.0 4.0 1.0
+he stood before the judge and declared his innocence
+2.0 3.0 8.0 9.0 1.0 7.0 3.0 9.0 1.0
+he looked at the judge for a long time before he declared his innocence
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 4.0 1.0 7.0 2.0 3.0 9.0 1.0
+give yourself plenty of time because the work is quite demanding
+3.0   2.0      2.0   8.0 1.0   7.0   9.0 1.0  3.0 4.0    3.0
+give yourself plenty of time for the work
+3.0  2.0        2.0  8.0 1.0 8.0 9.0 1.0
+I have been working for a month
+2.0 3.0 3.0  3.0    8.0 9.0 1.0
+someone stole the lettuce in your garden while you were away
+2.0     3.0   9.0  1.0    8.0 9.0 1.0     7.0  2.0  3.0  6.0
+I work many hours during the day
+2.0 3.0 4.0 1.0    8.0  9.0  1.0
+she wrote a letter instead of speaking
+2.0  3.0 9.0 1.0   7.0    7.0  3.0
+She wrote a letter instead of a poem
+2.0  3.0  9.0 1.0   8.0   8.0 9.0 1.0
+He left the room without his wife
+2.0 3.0 9.0 1.0   8.0    9.0 1.0
+He left the room without taking his wife
+2.0 3.0 9.0  1.0  7.0    3.0    9.0  1.0
+I went to school
+2.0 3.0 8.0 1.0
+you are a good student
+2.0 3.0 9.0 4.0 1.0
+can you quickly go to buy the food
+5.0 2.0  6.0   3.0 7.0 3.0 9.0 1.0
+I will work today
+2.0 3.0 3.0 6.0
+life is a long story
+1.0 3.0 9.0 4.0 1.0
+people spend time on difficult things
+1.0 3.0 1.0 8.0 4.0 1.0
+the project is due before tuesday
+9.0 1.0 3.0 4.0 8.0 1.0
+I want the school to close
+2.0 3.0 9.0 1.0 7.0 3.0
+what do you need
+5.0 3.0 2.0 3.0
+we went to the movie after we ate
+2.0 3.0 8.0 9.0 1.0 7.0 2.0 3.0 
+we went to the movie after the lecture
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 1.0
+I have been living in Denver since last summer
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 4.0 1.0
+I have been living in Denver since my father died
+2.0 3.0 3.0 3.0 8.0 1.0 8.0 9.0 1.0 3.0
+the plane had to land in Stuttgart because of the bad weather
+9.0 1.0 3.0 8.0 3.0 8.0 1.0 8.0 8.0 9.0 4.0 1.0
+he stood before the judge and declared his innocence
+2.0 3.0 8.0 9.0 1.0 7.0 3.0 9.0 1.0
+he looked at the judge for a long time before he declared his innocence
+2.0 3.0 8.0 9.0 1.0 8.0 9.0 4.0 1.0 7.0 2.0 3.0 9.0 1.0
+give yourself plenty of time because the work is quite demanding
+3.0   2.0      2.0   8.0 1.0   7.0   9.0 1.0  3.0 4.0    3.0
+give yourself plenty of time for the work
+3.0  2.0        2.0  8.0 1.0 8.0 9.0 1.0
+I have been working for a month
+2.0 3.0 3.0  3.0    8.0 9.0 1.0
+someone stole the lettuce in your garden while you were away
+2.0     3.0   9.0  1.0    8.0 9.0 1.0     7.0  2.0  3.0  6.0
+I work many hours during the day
+2.0 3.0 4.0 1.0    8.0  9.0  1.0
+she wrote a letter instead of speaking
+2.0  3.0 9.0 1.0   7.0    7.0  3.0
+She wrote a letter instead of a poem
+2.0  3.0  9.0 1.0   8.0   8.0 9.0 1.0
+He left the room without his wife
+2.0 3.0 9.0 1.0   8.0    9.0 1.0
+He left the room without taking his wife
+2.0 3.0 9.0  1.0  7.0    3.0    9.0  1.0
+I went to school
+2.0 3.0 8.0 1.0
+you are a good student
+2.0 3.0 9.0 4.0 1.0
+can you quickly go to buy the food
+5.0 2.0  6.0   3.0 7.0 3.0 9.0 1.0
+I will work today
+2.0 3.0 3.0 6.0
+life is a long story
+1.0 3.0 9.0 4.0 1.0
+people spend time on difficult things
+1.0 3.0 1.0 8.0 4.0 1.0
+the project is due before tuesday
+9.0 1.0 3.0 4.0 8.0 1.0
+I want the school to close
+2.0 3.0 9.0 1.0 7.0 3.0
+what do you need
+5.0 3.0 2.0 3.0
+----
